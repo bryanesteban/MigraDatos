@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\deberes\Kruger\App\migradatos\target\rls\debug\build\typenum-8da93ba37440d453\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\deberes\Kruger\App\migradatos\target\rls\debug\build\typenum-8da93ba37440d453\out\op.rs

@@ -1,0 +1,11 @@
+D:\deberes\Kruger\App\migradatos\target\debug\deps\actix_rt-af0d5326bb17f693.rmeta: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src/lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\arbiter.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\builder.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\runtime.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\system.rs
+
+D:\deberes\Kruger\App\migradatos\target\debug\deps\libactix_rt-af0d5326bb17f693.rlib: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src/lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\arbiter.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\builder.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\runtime.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\system.rs
+
+D:\deberes\Kruger\App\migradatos\target\debug\deps\actix_rt-af0d5326bb17f693.d: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src/lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\arbiter.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\builder.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\runtime.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\system.rs
+
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src/lib.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\arbiter.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\builder.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\runtime.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-rt-1.1.1\src\system.rs:

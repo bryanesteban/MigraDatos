@@ -1,0 +1,10 @@
+d:\deberes\Kruger\App\migradatos\target\rls\debug\deps\actix_router-3e42a61d079bf43c.rmeta: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src/lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\de.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\path.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\resource.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\router.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\url.rs
+
+d:\deberes\Kruger\App\migradatos\target\rls\debug\deps\actix_router-3e42a61d079bf43c.d: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src/lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\de.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\path.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\resource.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\router.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\url.rs
+
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src/lib.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\de.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\path.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\resource.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\router.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\actix-router-0.2.6\src\url.rs:

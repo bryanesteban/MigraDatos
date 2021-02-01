@@ -1,0 +1,12 @@
+D:\deberes\Kruger\App\migradatos\target\debug\deps\miow-2be74a6d74e300b9.rmeta: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+D:\deberes\Kruger\App\migradatos\target\debug\deps\libmiow-2be74a6d74e300b9.rlib: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+D:\deberes\Kruger\App\migradatos\target\debug\deps\miow-2be74a6d74e300b9.d: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs
+
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\lib.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\handle.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\overlapped.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\iocp.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\net.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.2\src\pipe.rs:

@@ -1,0 +1,10 @@
+d:\deberes\Kruger\App\migradatos\target\rls\debug\deps\futures_channel-97bd17dc0c1b7bba.rmeta: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lock.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\mod.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\queue.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\sink_impl.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\oneshot.rs
+
+d:\deberes\Kruger\App\migradatos\target\rls\debug\deps\futures_channel-97bd17dc0c1b7bba.d: C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lib.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lock.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\mod.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\queue.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\sink_impl.rs C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\oneshot.rs
+
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lib.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\lock.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\mod.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\queue.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\mpsc\sink_impl.rs:
+C:\Users\bryanesteban\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.12\src\oneshot.rs:
